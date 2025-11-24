@@ -1,0 +1,10 @@
+[
+  {
+    "id":"frio",
+    "name":"Frio Launcher",
+    "version":"1.0",
+    "image":"https://raw.githubusercontent.com/kaspercito/frio-updates/main/images/logo.png",
+    "zip":"https://github.com/kaspercito/frio-updates/releases/download/v1.0/frio_v1.zip",
+    "description":"Frio Launcher con mods."
+  }
+]
